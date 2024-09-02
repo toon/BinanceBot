@@ -1,0 +1,204 @@
+{
+    "items": [
+        {
+            "ticker": "1INCHUSDT",
+            "status": "comprado",
+            "compra": 0.2706,
+            "atual": "0.26920000",
+            "variacao": -0.5173688100517437,
+            "acumulado": 112.01058141891347
+        },
+        {
+            "ticker": "ADXUSDT",
+            "acumulado": 109.4711067515264
+        },
+        {
+            "ticker": "ALPINEUSDT",
+            "acumulado": 96.4235637189628
+        },
+        {
+            "ticker": "AXLUSDT",
+            "status": "comprado",
+            "compra": 0.5686,
+            "atual": "0.55980000",
+            "variacao": -1.5476609215617332,
+            "acumulado": 99.5981427385807
+        },
+        {
+            "ticker": "AXSUSDT",
+            "status": "comprado",
+            "compra": 4.773,
+            "atual": "4.75700000",
+            "variacao": -0.33521893987010776,
+            "acumulado": 106.64373526899912
+        },
+        {
+            "ticker": "BCHUSDT",
+            "status": "comprado",
+            "compra": 346.7,
+            "atual": "347.30000000",
+            "variacao": 0.1730602826651273,
+            "acumulado": 107.40293692667449
+        },
+        {
+            "ticker": "CELRUSDT",
+            "status": "comprado",
+            "compra": 0.01083,
+            "atual": "0.01082000",
+            "variacao": -0.09233610341643494,
+            "acumulado": 106.57260668387424
+        },
+        {
+            "ticker": "DGBUSDT",
+            "status": "comprado",
+            "compra": 0.00675,
+            "atual": "0.00676000",
+            "variacao": 0.1481481481481639,
+            "acumulado": 109.99212627374042
+        },
+        {
+            "ticker": "EGLDUSDT",
+            "status": "comprado",
+            "compra": 28.23,
+            "atual": "28.06000000",
+            "variacao": -0.602196245129305,
+            "acumulado": 104.11784209614022
+        },
+        {
+            "ticker": "EOSUSDT",
+            "status": "comprado",
+            "compra": 0.4791,
+            "atual": "0.48070000",
+            "variacao": 0.33395950740973124,
+            "acumulado": 106.76797166431854
+        },
+        {
+            "ticker": "IOSTUSDT",
+            "status": "comprado",
+            "compra": 0.00521,
+            "atual": "0.00525000",
+            "variacao": 0.7677543186180413,
+            "acumulado": 109.045362039644
+        },
+        {
+            "ticker": "LAZIOUSDT",
+            "acumulado": 90.98185236678538
+        },
+        {
+            "ticker": "LRCUSDT",
+            "status": "comprado",
+            "compra": 0.1299,
+            "atual": "0.13010000",
+            "variacao": 0.15396458814473934,
+            "acumulado": 103.5468415391053
+        },
+        {
+            "ticker": "LTOUSDT",
+            "status": "comprado",
+            "compra": 0.0995,
+            "atual": "0.09890000",
+            "variacao": -0.6030150753768893,
+            "acumulado": 96.59326997069417
+        },
+        {
+            "ticker": "OGNUSDT",
+            "status": "comprado",
+            "compra": 0.0769,
+            "atual": "0.07670000",
+            "variacao": -0.2600780234070066,
+            "acumulado": 100.7783116937486
+        },
+        {
+            "ticker": "ONGUSDT",
+            "status": "comprado",
+            "compra": 0.2927,
+            "atual": "0.29360000",
+            "variacao": 0.3074820635462938,
+            "acumulado": 93.8164631212461
+        },
+        {
+            "ticker": "ONTUSDT",
+            "acumulado": 98.96020199463506
+        },
+        {
+            "ticker": "POLYXUSDT",
+            "status": "comprado",
+            "compra": 0.2197,
+            "atual": "0.21990000",
+            "variacao": 0.0910332271279124,
+            "acumulado": 97.0269067606789
+        },
+        {
+            "ticker": "REEFUSDT",
+            "status": "comprado",
+            "compra": 0.001147,
+            "atual": "0.00113200",
+            "variacao": -1.3077593722755076,
+            "acumulado": 95.20897142259344
+        },
+        {
+            "ticker": "ROSEUSDT",
+            "status": "comprado",
+            "compra": 0.06404,
+            "atual": "0.06294000",
+            "variacao": -1.7176764522173649,
+            "acumulado": 100.39312511397036
+        },
+        {
+            "ticker": "RVNUSDT",
+            "status": "comprado",
+            "compra": 0.01611,
+            "atual": "0.01617000",
+            "variacao": 0.3724394785847407,
+            "acumulado": 114.3966022203854
+        },
+        {
+            "ticker": "SKLUSDT",
+            "status": "comprado",
+            "compra": 0.03547,
+            "atual": "0.03526000",
+            "variacao": -0.592049619396684,
+            "acumulado": 87.68746729694192
+        },
+        {
+            "ticker": "SLPUSDT",
+            "status": "comprado",
+            "compra": 0.002409,
+            "atual": "0.00239000",
+            "variacao": -0.7887090078870895,
+            "acumulado": 94.0386816364221
+        },
+        {
+            "ticker": "STMXUSDT",
+            "acumulado": 92.13671674630308
+        },
+        {
+            "ticker": "TLMUSDT",
+            "status": "comprado",
+            "compra": 0.00934,
+            "atual": "0.00940000",
+            "variacao": 0.6423982869379063,
+            "acumulado": 99.7848452407525
+        },
+        {
+            "ticker": "TUSDT",
+            "acumulado": 95.9379491341912
+        },
+        {
+            "ticker": "VITEUSDT",
+            "acumulado": 94.23835309289214
+        },
+        {
+            "ticker": "XECUSDT",
+            "status": "comprado",
+            "compra": 3.141e-05,
+            "atual": "0.00003135",
+            "variacao": -0.19102196752625034,
+            "acumulado": 93.86115784741784
+        },
+        {
+            "ticker": "XNOUSDT",
+            "acumulado": 103.36922435880425
+        }
+    ]
+}
